@@ -23,7 +23,7 @@ Ensure these variables are set before running the app to ensure all functionalit
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/pganesh2023/ta-management.git
+  git clone https://github.com/folder/ta-management.git
 ```
 
 2. Navigate to the project directory:
